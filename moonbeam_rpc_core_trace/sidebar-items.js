@@ -1,1 +1,1 @@
-initSidebarItems({"enum":[["RequestBlockId",""],["RequestBlockTag",""]],"struct":[["FilterRequest",""],["TransactionTrace",""]],"trait":[["Trace",""],["TraceServer",""]]});
+initSidebarItems({"struct":[["FilterRequest",""]],"trait":[["Trace",""],["TraceServer",""]]});

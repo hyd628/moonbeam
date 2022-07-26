@@ -1,1 +1,0 @@
-initSidebarItems({"constant":[["BYTE_FEE",""],["KILOMSHD",""],["MICROMSHD",""],["MILLIMSHD",""],["MSHD",""],["NANOMSHD",""]],"fn":[["deposit",""]]});

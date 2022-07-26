@@ -1,1 +1,1 @@
-initSidebarItems({"constant":[["BYTE_FEE",""],["GIGASED",""],["KILOMOVR",""],["KILOSED",""],["MEGASED",""],["MICROMOVR",""],["MILLIMOVR",""],["MOVR",""],["SED",""]],"fn":[["deposit",""]]});
+initSidebarItems({"constant":[["GIGAWEI",""],["KILOMOVR",""],["KILOWEI",""],["MEGAWEI",""],["MICROMOVR",""],["MILLIMOVR",""],["MOVR",""],["STORAGE_BYTE_FEE",""],["SUPPLY_FACTOR",""],["TRANSACTION_BYTE_FEE",""],["WEI",""],["WEIGHT_FEE",""]],"fn":[["deposit",""]]});
